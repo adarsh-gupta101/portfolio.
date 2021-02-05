@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "ADARSH GUPTA",
+    "occupation": "",
+    "description": "Eat Sleep Code Repeat",
+    "image": "adarshpp.jpg",
+    "bio": "Hi there! I am Adarsh. Iam a Full Stack Developer.",
+    "contactmessage": "Get in touch with me to learn web developing",
+    "email": "aarshbyadarsh@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "India",
+      "state": "Kerala",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/adarsh.murali.3979/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/adarsh-m-088393168/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/adarshgupta.jpg/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/adarsh-gupta101/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "",
+        "degree": "Bachelor of Technology, Computer Science",
+        "graduated": "",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Founder of something in Future",
+        "years": "june 2020 - Present",
+        "description": "I do things which I love  "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
+        "level": "55%"
+      },
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix-clone",
+        "category": "",
+        "image": "adarshnetflix.jpg",
+        "url": "https://netfix-clone-reactjs.web.app/"
+      },
+      {
+        "title": "Messenger(React JS)",
+        "category": "",
+        "image": "ADARSH MESSENGET.jpg",
+        "url": "https://adarsh-chit-chat.web.app/"
+      },
+      {
+        "title": "Amazon (React JS)",
+        "category": "",
+        "image": "amazon.jpg",
+        "url": "https://amaznclone-ea763.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Believe In Yourself",
+        "user": ""
+      },{
+        "text": "Do What You Love",
+        "user": ""
+      }
+     
+    ]
+  }
+}
